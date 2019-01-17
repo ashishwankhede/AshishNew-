@@ -1,1 +1,5 @@
 this is test file...
+adding file details
+
+1.size - 12KB
+2.format - txt
